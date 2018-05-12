@@ -1,0 +1,40 @@
+_repo: Satellite-System_29990
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L. R.
+    - Summers, Leo Ramon
+    - Summers, L.R.
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fyfe, H. B. (Horace Bowne)
+    alias: Fyfe, Horace Bowne
+    birthdate: 1918
+    deathdate: 1997
+    gutenberg_agent_id: '25276'
+    url: http://www.gutenberg.org/2009/agents/25276
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: Satellite System
+url: http://www.gutenberg.org/ebooks/29990
